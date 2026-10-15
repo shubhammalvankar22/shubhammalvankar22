@@ -1,43 +1,28 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:020617,50:0E7490,100:7C3AED&text=SHUBHAM%20MALVANKAR&fontColor=E0F2FE&fontSize=50&fontAlignY=40&desc=DATA%20ANALYST%20%E2%80%A2%20INSIGHTS%20%E2%80%A2%20FORECASTING&descColor=22D3EE&descSize=18&descAlignY=62&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:020617,50:0E7490,100:7C3AED&animation=twinkling" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=700&color=22D3EE&center=true&vCenter=true&width=760&height=50&lines=%3E+initializing+data_analyst.exe...;%3E+loading+SQL+%7C+Power+BI+%7C+Python...;%3E+detecting+anomalies+in+10K+transactions...;%3E+forecasting+sales+with+SARIMAX...;%3E+status%3A+OPEN+TO+WORK" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=44&duration=3500&pause=1500&color=22D3EE&center=true&vCenter=true&width=900&height=90&lines=SHUBHAM+MALVANKAR;%3C+DATA+ANALYST+%2F%3E" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2200&pause=600&color=A78BFA&center=true&vCenter=true&width=900&height=40&lines=%3E+modeling+data+into+decisions...;%3E+training+models+%7C+forecasting+demand...;%3E+AI-assisted+analytics+%7C+SQL+%E2%86%92+insight...;%3E+building+dashboards+that+ship...;%3E+status%3A+OPEN+TO+WORK" />
 
 <br>
 
+<a href="https://portfoliowebsite-da.netlify.app">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=1800&pause=400&color=020617&background=22D3EE&center=true&vCenter=true&width=620&height=70&lines=%E2%96%B6+ENTER+MY+PORTFOLIO;%E2%96%B6+LIVE+DASHBOARDS+%26+SOUND;%E2%96%B6+CLICK+TO+LAUNCH+%F0%9F%9A%80" />
+</a>
+
+<br><br>
+
 <a href="https://linkedin.com/in/shubham-malvankar"><img height="42" src="https://img.shields.io/badge/LINKEDIN-CONNECT-020617?style=for-the-badge&logo=linkedin&logoColor=22D3EE&color=0E7490" /></a>
 <a href="https://github.com/shubhammalvankar22"><img height="42" src="https://img.shields.io/badge/GITHUB-PROJECTS-020617?style=for-the-badge&logo=github&logoColor=A78BFA&color=7C3AED" /></a>
-<img height="42" src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-020617?style=for-the-badge&color=22D3EE" />
+<a href="https://portfoliowebsite-da.netlify.app"><img height="42" src="https://img.shields.io/badge/PORTFOLIO-LIVE-020617?style=for-the-badge&logo=netlify&logoColor=22D3EE&color=22D3EE" /></a>
 
-<br><br>
+<h2><code>[ 01 ] TECH STACK</code></h2>
 
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-22D3EE?style=flat-square&labelColor=020617" />
-<img src="https://img.shields.io/badge/ROLE-DATA_ANALYST-A78BFA?style=flat-square&labelColor=020617" />
-<img src="https://img.shields.io/badge/BATCH-2026-22D3EE?style=flat-square&labelColor=020617" />
-<img src="https://img.shields.io/badge/LOCATION-INDIA-A78BFA?style=flat-square&labelColor=020617" />
+<img src="./tech-stack.svg" width="100%" />
 
-<br><br>
-
-<h2><code>[ 01 ] PROFILE</code></h2>
-
-<img src="https://img.shields.io/badge/B.E._E%26TC-Finolex_Academy-020617?style=for-the-badge&color=0E7490" />
-<img src="https://img.shields.io/badge/LEARNING-A%2FB_Testing_%C2%B7_Hypothesis_Testing-020617?style=for-the-badge&color=7C3AED" />
-
-<h2><code>[ 02 ] TECH STACK</code></h2>
-
-<img src="https://skillicons.dev/icons?i=mysql,py,sqlite,flask,git,github,html,js&theme=dark&perline=8" height="64" />
-
-<br><br>
-
-<img height="38" src="https://img.shields.io/badge/Power_BI-020617?style=for-the-badge&logo=powerbi&logoColor=22D3EE" />
-<img height="38" src="https://img.shields.io/badge/Excel-020617?style=for-the-badge&logo=microsoftexcel&logoColor=22D3EE" />
-<img height="38" src="https://img.shields.io/badge/Pandas-020617?style=for-the-badge&logo=pandas&logoColor=A78BFA" />
-<img height="38" src="https://img.shields.io/badge/NumPy-020617?style=for-the-badge&logo=numpy&logoColor=A78BFA" />
-<img height="38" src="https://img.shields.io/badge/Plotly-020617?style=for-the-badge&logo=plotly&logoColor=22D3EE" />
-<img height="38" src="https://img.shields.io/badge/Streamlit-020617?style=for-the-badge&logo=streamlit&logoColor=A78BFA" />
-
-<h2><code>[ 03 ] ACTIVITY GRAPH</code></h2>
+<h2><code>[ 02 ] ACTIVITY GRAPH</code></h2>
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shubhammalvankar22&bg_color=020617&color=22D3EE&line=7C3AED&point=E0F2FE&area=true&area_color=0E7490&hide_border=true&radius=10" />
 
@@ -45,25 +30,9 @@
 
 <img src="https://ghchart.rshah.org/22d3ee/shubhammalvankar22" width="100%" />
 
-<h2><code>[ 04 ] PROJECTS</code></h2>
+<h2><code>[ 03 ] CONNECT</code></h2>
 
-<table>
-<tr><td><b>UPI FRAUD DETECTION</b></td><td>Isolation Forest + IQR anomaly detection on 10K transactions, real-time alert API, ₹ impact</td></tr>
-<tr><td><b>SALES FORECASTING</b></td><td>SARIMAX + Fourier seasonality, validated on 90-day holdout</td></tr>
-<tr><td><b>AI BUSINESS ANALYST</b></td><td>Question → SQL → chart → plain-English insight</td></tr>
-<tr><td><b>HR ANALYTICS</b></td><td>Attrition analysis on 1,470 records (Python, MySQL, Plotly)</td></tr>
-<tr><td><b>E-COMMERCE WAREHOUSE</b></td><td>Star schema, 13 tables, Indian retail context</td></tr>
-<tr><td><b>POWER BI SUITE</b></td><td>Business Insights 360, Hospitality, Employee Analytics</td></tr>
-</table>
-
-<h2><code>[ 05 ] EXPERIENCE</code></h2>
-
-<code>Data Analytics Intern @ SAKEC</code><br>
-Cleaned, analysed and visualised data using Python, Pandas and NumPy
-
-<br><br>
-
-<a href="https://linkedin.com/in/shubham-malvankar"><img height="50" src="https://img.shields.io/badge/%3E_HIRE_ME_%3E%3E-020617?style=for-the-badge&logo=linkedin&logoColor=22D3EE&color=22D3EE" /></a>
+<a href="https://portfoliowebsite-da.netlify.app"><img height="50" src="https://img.shields.io/badge/%3E_OPEN_PORTFOLIO_%3E%3E-020617?style=for-the-badge&logo=netlify&logoColor=22D3EE&color=22D3EE" /></a>
 
 </div>
 
