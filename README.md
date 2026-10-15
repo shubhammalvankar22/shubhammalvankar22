@@ -1,14 +1,21 @@
 <div align="center">
 
-<h3><code>shubham@github ~ $ ./contributions.sh</code></h3>
-<img src="./contrib-heatmap.svg" width="860" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=480&lines=Shubham+Malvankar;Data+Analyst+%C2%B7+SQL+%C2%B7+Power+BI+%C2%B7+Python;Open+to+entry-level+roles" />
 
-<br><br>
+<h3><code>shubham@github ~ $ ./contributions.sh</code></h3>
+<img src="https://ghchart.rshah.org/22d3ee/shubhammalvankar22" width="800" />
 
 <h3><code>shubham@github ~ $ whoami</code></h3>
-<img src="./info-card.svg" width="860" />
 
-<br><br>
+```text
+Name       Shubham Malvankar
+Role       Data Analyst (Fresher)
+Education  B.E. E&TC 2026, Finolex Academy
+Stack      SQL · Power BI · Python · Excel · Streamlit
+Built      UPI Fraud Detection · Sales Forecasting · AI Analyst
+Learning   A/B Testing · Hypothesis Testing
+Status     Open to entry-level Data Analyst roles
+```
 
 <h3><code>shubham@github ~ $ ls projects/</code></h3>
 
@@ -23,6 +30,6 @@
 
 <br>
 
-<a href="https://linkedin.com/in/shubham-malvankar"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=22D3EE" /></a>
+<a href="https://linkedin.com/in/shubham-malvankar"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0D1117?style=for-the-badge&logo=linkedin&logoColor=22D3EE" /></a>
 
 </div>
